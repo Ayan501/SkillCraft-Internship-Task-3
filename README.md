@@ -1,4 +1,4 @@
-# 🏦 Task 2: Bank Marketing Campaign Analysis
+# 🏦 Task 3: Bank Marketing Campaign Analysis
 
 ## 📌 Objective
 To analyze a bank’s marketing campaign dataset and build a predictive model for term deposit subscription.
